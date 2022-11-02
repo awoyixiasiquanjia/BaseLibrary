@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BaseLibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/BaseLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MvvmLibrary/BaseLibrary.MvvmLibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/MvvmLibrary/BaseLibrary.MvvmLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MvvmLibrary/MvvmBase/BaseLibrary.MvvmLibrary.MvvmBase.iml" filepath="$PROJECT_DIR$/.idea/modules/MvvmLibrary/MvvmBase/BaseLibrary.MvvmLibrary.MvvmBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MvvmLibrary/MvvmBase/BaseLibrary.MvvmLibrary.MvvmBase.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/MvvmLibrary/MvvmBase/BaseLibrary.MvvmLibrary.MvvmBase.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MvvmLibrary/MvvmBase/BaseLibrary.MvvmLibrary.MvvmBase.main.iml" filepath="$PROJECT_DIR$/.idea/modules/MvvmLibrary/MvvmBase/BaseLibrary.MvvmLibrary.MvvmBase.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MvvmLibrary/MvvmBase/BaseLibrary.MvvmLibrary.MvvmBase.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/MvvmLibrary/MvvmBase/BaseLibrary.MvvmLibrary.MvvmBase.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MvvmLibrary/NetWork/BaseLibrary.MvvmLibrary.NetWork.iml" filepath="$PROJECT_DIR$/.idea/modules/MvvmLibrary/NetWork/BaseLibrary.MvvmLibrary.NetWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MvvmLibrary/NetWork/BaseLibrary.MvvmLibrary.NetWork.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/MvvmLibrary/NetWork/BaseLibrary.MvvmLibrary.NetWork.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MvvmLibrary/NetWork/BaseLibrary.MvvmLibrary.NetWork.main.iml" filepath="$PROJECT_DIR$/.idea/modules/MvvmLibrary/NetWork/BaseLibrary.MvvmLibrary.NetWork.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MvvmLibrary/NetWork/BaseLibrary.MvvmLibrary.NetWork.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/MvvmLibrary/NetWork/BaseLibrary.MvvmLibrary.NetWork.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MvvmLibrary/BaseLibrary.MvvmLibrary.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/MvvmLibrary/BaseLibrary.MvvmLibrary.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MvvmLibrary/BaseLibrary.MvvmLibrary.main.iml" filepath="$PROJECT_DIR$/.idea/modules/MvvmLibrary/BaseLibrary.MvvmLibrary.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MvvmLibrary/BaseLibrary.MvvmLibrary.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/MvvmLibrary/BaseLibrary.MvvmLibrary.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BaseLibrary.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BaseLibrary.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BaseLibrary.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BaseLibrary.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BaseLibrary.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BaseLibrary.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BaseLibrary.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BaseLibrary.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
